@@ -28,6 +28,8 @@ public class condicional {
 		
 			else {
 				System.out.print("reprovado");
+				
+				
 			}
 		}
 			
